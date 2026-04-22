@@ -137,41 +137,48 @@ Most deliveries are timely, but rare delays impact customer experience.
 ## 📈 Visualizations
 
 ### 📊 Orders Over Time
-<img width="1653" height="993" alt="orders_over_time" src="https://github.com/user-attachments/assets/54f5cfdf-dabb-4771-a187-f7cbaf1955ec" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54f5cfdf-dabb-4771-a187-f7cbaf1955ec" width="600"/>
+</p>
 
 
 ---
 
+
 ### 📊 New Customers Trend
-
-<img width="1653" height="993" alt="New customers over time" src="https://github.com/user-attachments/assets/9238b9cc-89e3-40c2-a035-e5e43510d1eb" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9238b9cc-89e3-40c2-a035-e5e43510d1eb" width="600"/>
+</p>
 
 ---
 
 ### 📊 Top Cities by Orders
-
-<img width="800" height="500" alt="top_cities" src="https://github.com/user-attachments/assets/9134539c-66f3-4941-895d-9050f6734157" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9134539c-66f3-4941-895d-905f06734157" width="600"/>
+</p>
 
 ---
 
 ### 📊 Delivery Time Distribution
-<img width="1653" height="993" alt="delivery distribution" src="https://github.com/user-attachments/assets/3c2b84e7-d8c2-43e2-a39d-01d42ad75daa" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c2b84e7-d8c2-43e2-a39d-01d42ad75daa" width="600"/>
+</p>
 
 ---
 
 ### 📊 Price vs Rating
-
-<img width="1653" height="993" alt="rating vs price" src="https://github.com/user-attachments/assets/5328bc5e-4627-458f-9cf1-2448f28535bc" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5328bc5e-4627-458f-9cf1-2448f28535bc" width="600"/>
+</p>
 
 ---
 
 ### 📊 Delivery Status Distribution
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9d193dd-1408-4d91-b5df-8c36593832ab" width="600"/>
+</p>
 
-<img width="1653" height="993" alt="delivery status distribution" src="https://github.com/user-attachments/assets/a9d193dd-1408-4d91-b5df-8c36593832ab" />
+---
 
 
 ---
