@@ -137,38 +137,42 @@ Most deliveries are timely, but rare delays impact customer experience.
 ## 📈 Visualizations
 
 ### 📊 Orders Over Time
+<img width="1653" height="993" alt="orders_over_time" src="https://github.com/user-attachments/assets/54f5cfdf-dabb-4771-a187-f7cbaf1955ec" />
 
-![Orders](visuals/orders_over_time.png)
 
 ---
 
 ### 📊 New Customers Trend
 
-![Customers](visuals/new_customers.png)
+<img width="1653" height="993" alt="New customers over time" src="https://github.com/user-attachments/assets/9238b9cc-89e3-40c2-a035-e5e43510d1eb" />
+
 
 ---
 
 ### 📊 Top Cities by Orders
 
-![Cities](visuals/top_cities.png)
+<img width="1496" height="862" alt="top_cities" src="https://github.com/user-attachments/assets/9134539c-66f3-4941-895d-9050f6734157" />
+
 
 ---
 
 ### 📊 Delivery Time Distribution
+<img width="1653" height="993" alt="delivery distribution" src="https://github.com/user-attachments/assets/3c2b84e7-d8c2-43e2-a39d-01d42ad75daa" />
 
-![Delivery](visuals/delivery_distribution.png)
 
 ---
 
 ### 📊 Price vs Rating
 
-![Price vs Rating](visuals/price_vs_rating.png)
+<img width="1653" height="993" alt="rating vs price" src="https://github.com/user-attachments/assets/5328bc5e-4627-458f-9cf1-2448f28535bc" />
+
 
 ---
 
 ### 📊 Delivery Status Distribution
 
-![Delivery Status](visuals/delivery_status.png)
+<img width="1653" height="993" alt="delivery status distribution" src="https://github.com/user-attachments/assets/a9d193dd-1408-4d91-b5df-8c36593832ab" />
+
 
 ---
 
@@ -202,11 +206,4 @@ The findings highlight:
 
 ---
 
-## 👩‍💻 Author
 
-**Mehak Arora**
-
-* B.Tech Student | Data Analytics Enthusiast
-* Skilled in SQL, Python, and Data Visualization
-
----
