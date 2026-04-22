@@ -182,9 +182,6 @@ Most deliveries are timely, but rare delays impact customer experience.
 
 ---
 
-
----
-
 ## 💡 Key Insights
 
 * 📉 Customer retention is low → majority are one-time buyers
@@ -199,6 +196,22 @@ Most deliveries are timely, but rare delays impact customer experience.
 
 This project demonstrates how raw transactional data can be transformed into actionable insights using SQL and visualization tools.
 
+---
+
+## 📂 Dataset Access
+
+The dataset used in this project is publicly available on Kaggle:
+
+👉 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+To reproduce this analysis:
+
+1. Download the dataset from the link above
+2. Import the CSV files into MySQL
+3. Run the provided SQL scripts for data cleaning and EDA
+
+---
+
 The findings highlight:
 
 * The importance of **customer retention strategies**
@@ -206,13 +219,4 @@ The findings highlight:
 * The value of **data-driven decision making** in e-commerce
 
 ---
-
-## 📌 Future Improvements
-
-* Build an interactive dashboard using **Power BI or Tableau**
-* Perform **customer segmentation (RFM analysis)**
-* Implement **predictive modeling (churn prediction)**
-
----
-
 
