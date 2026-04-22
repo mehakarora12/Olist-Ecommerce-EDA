@@ -153,9 +153,10 @@ Most deliveries are timely, but rare delays impact customer experience.
 ---
 
 ### 📊 Top Cities by Orders
-<p aligh="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/47634b57-310a-416d-ae42-c37986df0d2b" width="600"/>
 </p>
+
 
 
 ---
